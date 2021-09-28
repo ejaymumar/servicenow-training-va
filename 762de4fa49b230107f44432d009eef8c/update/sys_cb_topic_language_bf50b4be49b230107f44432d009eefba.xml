@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language">
+    <sys_cb_topic_language action="INSERT_OR_UPDATE">
+        <cb_topic_id display_value="Internet Issues">a750b0be49b230107f44432d009eefd5</cb_topic_id>
+        <language_code>en</language_code>
+        <nlu_entities>[{"node_id":"4619005150bd4794ae51c319353f940a","variable_name":"reboot_question","nlu_entity":"","nlu_entity_label":""},{"node_id":"38e8b377175e46d99d77ba2a0f865813","variable_name":"connection_type_question","nlu_entity":"","nlu_entity_label":""},{"node_id":"7d0b7d2b372b41f596d54b7788c6b0b3","variable_name":"cord_status_question","nlu_entity":"","nlu_entity_label":""},{"node_id":"575bcb27db0c4731808b6d39f312e35e","variable_name":"wifi_status_question","nlu_entity":"","nlu_entity_label":""},{"node_id":"b45e9f0a366d4f64909ba08907fe4ad5","variable_name":"vpn_connection_question","nlu_entity":"","nlu_entity_label":""},{"node_id":"737a0e57a30c44cbb1d07059c8442ad5","variable_name":"issue_resolved_question","nlu_entity":"","nlu_entity_label":""}]</nlu_entities>
+        <nlu_intent>InternetIssues</nlu_intent>
+        <nlu_intent_label>InternetIssues</nlu_intent_label>
+        <nlu_model>ml_x_snc_x_snc_cd_nlu_emman_global_b56da8fa49b230107f44432d009eef74</nlu_model>
+        <nlu_model_label>CD Self Service</nlu_model_label>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cb_topic_language</sys_class_name>
+        <sys_created_by>emmanuel.jay.mumar@accenture.com</sys_created_by>
+        <sys_created_on>2021-09-28 08:59:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>bf50b4be49b230107f44432d009eefba</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CD NLU - Emmanuel Jay Mumar 9/28/21" source="x_snc_cd_nlu_emman">762de4fa49b230107f44432d009eef8c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CD NLU - Emmanuel Jay Mumar 9/28/21">762de4fa49b230107f44432d009eef8c</sys_scope>
+        <sys_update_name>sys_cb_topic_language_bf50b4be49b230107f44432d009eefba</sys_update_name>
+        <sys_updated_by>emmanuel.jay.mumar@accenture.com</sys_updated_by>
+        <sys_updated_on>2021-09-28 09:32:28</sys_updated_on>
+    </sys_cb_topic_language>
+</record_update>

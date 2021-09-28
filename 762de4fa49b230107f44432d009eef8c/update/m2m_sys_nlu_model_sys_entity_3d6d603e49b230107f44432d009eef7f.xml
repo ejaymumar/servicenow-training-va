@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_model_sys_entity">
+    <m2m_sys_nlu_model_sys_entity action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <entity>DURATION</entity>
+        <model display_value="CD Self Service">b56da8fa49b230107f44432d009eef74</model>
+        <sys_class_name>m2m_sys_nlu_model_sys_entity</sys_class_name>
+        <sys_created_by>emmanuel.jay.mumar@accenture.com</sys_created_by>
+        <sys_created_on>2021-09-28 08:46:15</sys_created_on>
+        <sys_entity/>
+        <sys_id>3d6d603e49b230107f44432d009eef7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CD Self Service.</sys_name>
+        <sys_package display_value="CD NLU - Emmanuel Jay Mumar 9/28/21" source="x_snc_cd_nlu_emman">762de4fa49b230107f44432d009eef8c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CD NLU - Emmanuel Jay Mumar 9/28/21">762de4fa49b230107f44432d009eef8c</sys_scope>
+        <sys_update_name>m2m_sys_nlu_model_sys_entity_3d6d603e49b230107f44432d009eef7f</sys_update_name>
+        <sys_updated_by>emmanuel.jay.mumar@accenture.com</sys_updated_by>
+        <sys_updated_on>2021-09-28 08:46:15</sys_updated_on>
+    </m2m_sys_nlu_model_sys_entity>
+</record_update>

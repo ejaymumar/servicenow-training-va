@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_entity">
+    <sys_nlu_entity action="INSERT_OR_UPDATE">
+        <base_entity/>
+        <confidence_threshold>0.6</confidence_threshold>
+        <field_name/>
+        <lookup/>
+        <model/>
+        <name>internet</name>
+        <override_confidence_threshold>false</override_confidence_threshold>
+        <parent/>
+        <sys_class_name>sys_nlu_entity</sys_class_name>
+        <sys_created_by>emmanuel.jay.mumar@accenture.com</sys_created_by>
+        <sys_created_on>2021-09-28 08:51:31</sys_created_on>
+        <sys_id>439ee83e49b230107f44432d009eefb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>internet</sys_name>
+        <sys_package display_value="CD NLU - Emmanuel Jay Mumar 9/28/21" source="x_snc_cd_nlu_emman">762de4fa49b230107f44432d009eef8c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CD NLU - Emmanuel Jay Mumar 9/28/21">762de4fa49b230107f44432d009eef8c</sys_scope>
+        <sys_update_name>sys_nlu_entity_439ee83e49b230107f44432d009eefb2</sys_update_name>
+        <sys_updated_by>emmanuel.jay.mumar@accenture.com</sys_updated_by>
+        <sys_updated_on>2021-09-28 08:51:31</sys_updated_on>
+        <table/>
+        <type>simple</type>
+        <values_list/>
+    </sys_nlu_entity>
+</record_update>

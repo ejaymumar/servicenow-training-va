@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="user" label="User" language="en" table="var__m_topic_variable_a750b0be49b230107f44432d009eefd5">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <help/>
+            <hint/>
+            <label>User</label>
+            <language>en</language>
+            <name>var__m_topic_variable_a750b0be49b230107f44432d009eefd5</name>
+            <plural>User</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>emmanuel.jay.mumar@accenture.com</sys_created_by>
+            <sys_created_on>2021-09-28 08:59:12</sys_created_on>
+            <sys_id>6b50b4be49b230107f44432d009eefa6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>User</sys_name>
+            <sys_package display_value="CD NLU - Emmanuel Jay Mumar 9/28/21" source="x_snc_cd_nlu_emman">762de4fa49b230107f44432d009eef8c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CD NLU - Emmanuel Jay Mumar 9/28/21">762de4fa49b230107f44432d009eef8c</sys_scope>
+            <sys_update_name>sys_documentation_var__m_topic_variable_a750b0be49b230107f44432d009eefd5_user_en</sys_update_name>
+            <sys_updated_by>emmanuel.jay.mumar@accenture.com</sys_updated_by>
+            <sys_updated_on>2021-09-28 08:59:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

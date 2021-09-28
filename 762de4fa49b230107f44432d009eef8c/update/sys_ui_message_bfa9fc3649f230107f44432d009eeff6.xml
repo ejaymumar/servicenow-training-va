@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Virtual Agent</application>
+        <key>Please validate that the cord is plugged in and not damaged.</key>
+        <language>en</language>
+        <message>Please validate that the cord is plugged in and not damaged.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>emmanuel.jay.mumar@accenture.com</sys_created_by>
+        <sys_created_on>2021-09-28 09:39:54</sys_created_on>
+        <sys_id>bfa9fc3649f230107f44432d009eeff6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Please validate that the cord is plugged in and not damaged.</sys_name>
+        <sys_package display_value="CD NLU - Emmanuel Jay Mumar 9/28/21" source="x_snc_cd_nlu_emman">762de4fa49b230107f44432d009eef8c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CD NLU - Emmanuel Jay Mumar 9/28/21">762de4fa49b230107f44432d009eef8c</sys_scope>
+        <sys_update_name>sys_ui_message_bfa9fc3649f230107f44432d009eeff6</sys_update_name>
+        <sys_updated_by>emmanuel.jay.mumar@accenture.com</sys_updated_by>
+        <sys_updated_on>2021-09-28 09:39:54</sys_updated_on>
+    </sys_ui_message>
+</record_update>

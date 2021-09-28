@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_utterance">
+    <sys_nlu_utterance action="INSERT_OR_UPDATE">
+        <intent display_value="InternetIssues">faad2cfa49b230107f44432d009eef60</intent>
+        <sys_class_name>sys_nlu_utterance</sys_class_name>
+        <sys_created_by>emmanuel.jay.mumar@accenture.com</sys_created_by>
+        <sys_created_on>2021-09-28 08:49:40</sys_created_on>
+        <sys_id>ff2e643e49b230107f44432d009eef97</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Password is not working</sys_name>
+        <sys_package display_value="CD NLU - Emmanuel Jay Mumar 9/28/21" source="x_snc_cd_nlu_emman">762de4fa49b230107f44432d009eef8c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CD NLU - Emmanuel Jay Mumar 9/28/21">762de4fa49b230107f44432d009eef8c</sys_scope>
+        <sys_update_name>sys_nlu_utterance_ff2e643e49b230107f44432d009eef97</sys_update_name>
+        <sys_updated_by>emmanuel.jay.mumar@accenture.com</sys_updated_by>
+        <sys_updated_on>2021-09-28 08:49:40</sys_updated_on>
+        <utterance>Password is not working</utterance>
+    </sys_nlu_utterance>
+</record_update>

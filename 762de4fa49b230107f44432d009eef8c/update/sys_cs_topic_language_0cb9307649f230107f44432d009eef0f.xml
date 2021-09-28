@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_topic_language">
+    <sys_cs_topic_language action="INSERT_OR_UPDATE">
+        <cs_topic_id display_value="Internet Issues">88b9307649f230107f44432d009eef07</cs_topic_id>
+        <language_code>en</language_code>
+        <nlu_entities>[{"variable_name":"reboot_question","nlu_entity":"","nlu_entity_label":""},{"variable_name":"connection_type_question","nlu_entity":"","nlu_entity_label":""},{"variable_name":"cord_status_question","nlu_entity":"","nlu_entity_label":""},{"variable_name":"wifi_status_question","nlu_entity":"","nlu_entity_label":""},{"variable_name":"vpn_connection_question","nlu_entity":"","nlu_entity_label":""},{"variable_name":"issue_resolved_question","nlu_entity":"","nlu_entity_label":""}]</nlu_entities>
+        <nlu_intent>InternetIssues</nlu_intent>
+        <nlu_intent_label>InternetIssues</nlu_intent_label>
+        <nlu_model>ml_x_snc_x_snc_cd_nlu_emman_global_b56da8fa49b230107f44432d009eef74</nlu_model>
+        <nlu_model_label>CD Self Service</nlu_model_label>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cs_topic_language</sys_class_name>
+        <sys_created_by>emmanuel.jay.mumar@accenture.com</sys_created_by>
+        <sys_created_on>2021-09-28 09:39:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>0cb9307649f230107f44432d009eef0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CD NLU - Emmanuel Jay Mumar 9/28/21" source="x_snc_cd_nlu_emman">762de4fa49b230107f44432d009eef8c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CD NLU - Emmanuel Jay Mumar 9/28/21">762de4fa49b230107f44432d009eef8c</sys_scope>
+        <sys_update_name>sys_cs_topic_language_0cb9307649f230107f44432d009eef0f</sys_update_name>
+        <sys_updated_by>emmanuel.jay.mumar@accenture.com</sys_updated_by>
+        <sys_updated_on>2021-09-28 09:39:55</sys_updated_on>
+    </sys_cs_topic_language>
+</record_update>
